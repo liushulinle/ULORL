@@ -17,7 +17,7 @@ Recent advances in large language models (LLMs) have highlighted the potential o
 ## Releases
 **[2025-07-26]**
 
-- **Paper** [paper]([https://xxx](https://github.com/liushulinle/ULORL/blob/main/ULORL.pdf)).
+- **Paper** [paper](https://github.com/liushulinle/ULORL/blob/main/ULORL.pdf).
 - **Model** Comming Soon
 - **Code** Comming Soon
 
