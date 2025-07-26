@@ -17,7 +17,7 @@ Recent advances in large language models (LLMs) have highlighted the potential o
 ## Releases
 **[2025-07-26]**
 
-- **Paper** [paper](https://xxx).
+- **Paper** [paper]([https://xxx](https://github.com/liushulinle/ULORL/blob/main/ULORL.pdf)).
 - **Model** Comming Soon
 - **Code** Comming Soon
 
@@ -31,7 +31,7 @@ Thanks for their wonderful work.
 ```bibtex
 @misc{Ulorl2025,
     title = {UloRL:An Ultra-Long Output Reinforcement Learning Approach for Advancing Large Language Models' Reasoning Abilities},
-    url = {https://xxx},
+    url = {https://github.com/liushulinle/ULORL/blob/main/ULORL.pdf},
     author = {Dong Du, Shulin Liu, Tao Yang, Shaohua Chen, Yang Li}
     year = {2025}
 }
