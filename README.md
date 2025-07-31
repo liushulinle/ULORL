@@ -15,6 +15,11 @@ Recent advances in large language models (LLMs) have highlighted the potential o
 </div>
 
 ## Releases
+**[2025-07-31]**
+- **Paper** [paper](https://arxiv.org/pdf/2507.19766).
+- **Model** [Model](https://huggingface.co/forestliutc/UloRL)
+- **Code** Comming Soon
+- 
 **[2025-07-26]**
 
 - **Paper** [paper](https://arxiv.org/pdf/2507.19766).
