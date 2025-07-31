@@ -34,9 +34,9 @@ Thanks for their wonderful work.
 
 ## Citation
 ```bibtex
-@misc{Ulorl2025,
+@article{Ulorl2025,
     title = {UloRL:An Ultra-Long Output Reinforcement Learning Approach for Advancing Large Language Models' Reasoning Abilities},
-    url = {https://github.com/liushulinle/ULORL/blob/main/ULORL.pdf},
+    url = {https://arxiv.org/pdf/2507.19766),
     author = {Dong Du, Shulin Liu, Tao Yang, Shaohua Chen, Yang Li}
     year = {2025}
 }
